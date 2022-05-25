@@ -1,5 +1,7 @@
 package in.ashokit;
 
-public class Demo extends RuntimeException {
+
+public class Demo {
+
 
 }
