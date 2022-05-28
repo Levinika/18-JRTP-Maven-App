@@ -2,8 +2,7 @@ package in.ashokit;
 
 
 public class Demo extends RuntimeException{
-
-int a=10;
+private static final String REST_URL="https://www.equifax.com/getScores/"
 public void doProcess(){
 }
 
